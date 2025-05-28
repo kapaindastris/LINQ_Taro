@@ -52,7 +52,7 @@ LINQ_Taro/
 
 1.Клонируйте репозиторий:
   ```bash
-   git clone https://github.com/yourusername/CardShuffle.git
+   git clone https://github.com/kapaindastris/LINQ_Taro.git
 ```
 2.Откройте CardShuffle.sln в Visual Studio 2019/2022.
 
